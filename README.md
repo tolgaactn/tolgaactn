@@ -3,7 +3,6 @@
 **Backend Developer** building products in public.
 
 🚀 Currently shipping micro-SaaS tools with **ASP.NET Core**.  
-🐦 Follow my journey: [@tacbuilds](https://x.com/tacbuilds)
 
 ---
 
